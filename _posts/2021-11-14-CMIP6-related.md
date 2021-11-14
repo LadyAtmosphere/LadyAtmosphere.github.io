@@ -1,10 +1,8 @@
-### date: 2021-11-214 19:45 +0800
-### last_modified_at: 2021-11-14 19:45 +0800
-### tags: [cmip6, datasets]
+
 
 # Welcome to **Lady Atmos**! Here are some links about the CMIP6 data.
-# CMIP6数据相关信息
 
+# CMIP6数据相关信息
 ## 1.Downloading(数据下载)
 ### The complete archive of CMIP6 output is accessible from any one of the following portals:
 1. USA, PCMDI/LLNL (California) - https://esgf-node.llnl.gov/projects/cmip6/
@@ -27,4 +25,7 @@ https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_experiment_id.html
 
 
 -----
+date: 2021-11-214 19:45 +0800
+last_modified_at: 2021-11-14 19:45 +0800
+tags: [cmip6, datasets]
 [^fn-sample_footnote]: Handy! Now click the return link to go back.
