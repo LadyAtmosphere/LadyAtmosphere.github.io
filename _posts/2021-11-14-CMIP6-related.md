@@ -26,7 +26,7 @@ last_modified_at: 2021-11-14 19:45 +0800
 
 
 ## 2.数据信息
-### 各个计划的试验信息
+### 各个计划参与的试验信息
 [https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_experiment_id.html](https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_experiment_id.html)
 ### 不同模式参与的研究计划信息
 [https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_source_id.html](https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_source_id.html)
