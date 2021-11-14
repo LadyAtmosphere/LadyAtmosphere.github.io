@@ -2,14 +2,11 @@
 layout: post
 title: CMIP6 数据
 tags: CMIP6, Dataset
-math: false
 date: 2021-11-14 19:40 +0800
 last_modified_at: 2021-11-14 19:45 +0800
 ---
 
-
-
-# Welcome to **Lady Atmos**! Here are some links about the CMIP6 data.
+### Welcome to **Lady Atmos**! Here are some links about the CMIP6 data.
 
 # CMIP6数据相关信息
 ## 1.Downloading(数据下载)
@@ -22,15 +19,15 @@ last_modified_at: 2021-11-14 19:45 +0800
 [(https://developer.mozilla.org/en-US/docs/Web/HTML/Element)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
 ### 排放数据下载
-https://esgf-node.llnl.gov/search/input4mips/
+[https://esgf-node.llnl.gov/search/input4mips/](https://esgf-node.llnl.gov/search/input4mips/)
 
 
 ## 2.数据信息
 ### 试验名称信息
-https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_experiment_id.html
+[https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_experiment_id.html](https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_experiment_id.html)
 ### 变量名称信息
-1. http://clipc-services.ceda.ac.uk/dreq/mipVars.html
-2. https://pcmdi.llnl.gov/mips/cmip3/variableList.html
+1. [http://clipc-services.ceda.ac.uk/dreq/mipVars.html](http://clipc-services.ceda.ac.uk/dreq/mipVars.html)
+2. [https://pcmdi.llnl.gov/mips/cmip3/variableList.html](https://pcmdi.llnl.gov/mips/cmip3/variableList.html)
 
 
 
