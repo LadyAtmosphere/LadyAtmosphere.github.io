@@ -1,7 +1,10 @@
 ---
 layout: post
 title: CMIP6 数据
-tags: CMIP6, Dataset
+author: Pinya Wang
+tags: 
+- CMIP6  
+- Dataset
 date: 2021-11-14 19:40 +0800
 last_modified_at: 2021-11-14 19:45 +0800
 ---
@@ -30,6 +33,3 @@ last_modified_at: 2021-11-14 19:45 +0800
 2. [https://pcmdi.llnl.gov/mips/cmip3/variableList.html](https://pcmdi.llnl.gov/mips/cmip3/variableList.html)
 
 
-
------
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
