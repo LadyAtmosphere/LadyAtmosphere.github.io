@@ -1,6 +1,7 @@
 ---
 # Display name
 title:  王YOYO
+status:  🌻
 
 # Name pronunciation (optional)
 name_pronunciation: Pinya Wang
