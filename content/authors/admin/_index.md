@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title:  王YOYO
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Pinya Wang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pinya
+last_name: Wang
 
 # Status emoji
 status:
