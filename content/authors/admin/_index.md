@@ -1,10 +1,9 @@
 ---
 # Display name
-title:  王YOYO
-status:  🌻
+title:  王YOYO 
 
 # Name pronunciation (optional)
-name_pronunciation: Pinya Wang
+name_pronunciation: Pinya Wang 🌻
 
 # Full name (for SEO)
 first_name: Pinya
@@ -22,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Nanjing University of Information Science and Technology
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -107,8 +106,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
+  - icon: researchgate
+    icon_pack: academicons
     link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -121,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pinya Wang is a professor of XXX at the XXXLab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
