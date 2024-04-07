@@ -17,34 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associated Professor of Environmental Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Nanjing University of Information Science and Technology
-    url: https://www.stanford.edu/
+    url: https://www.nuist.edu.cn/main.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include numerical and theoretical study of air quality and interactions among air pollutants,meteorology and climate change.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Numerical simulations of extreme weathers
+  - Ozone pollution
+  - Attribution of climate change
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Atmospheric Science
+      institution: Nanjing University
+      year: 2019
+    - course: BSc in Atmospheric Science
+      institution: Nanjing University
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Pinya Wang is a professor of XXX at the XXXLab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pinya Wang is a teacher of Environmental Science at NUIST. Her research interests include....
 {style="text-align: justify;"}
