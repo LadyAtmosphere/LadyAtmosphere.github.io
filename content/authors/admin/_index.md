@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Pinya Wang is a teacher of Environmental Science at NUIST. Her research interests include....
+Pinya Wang is a teacher of Environmental Science at NUIST. Her research interests include the numerical and theoretical study of air quality, extreme weather events, and their interactions, and the interactions between natural variability and anthropogenic forcing.
 {style="text-align: justify;"}
