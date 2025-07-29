@@ -1,9 +1,11 @@
+---
 title:  EOF分析
 date: 2025-07-29
 math:true
 image:
 	placement: 2
 	caption:'Image credit'
+---
 ## 目录
   * [EOF方法](#EOF方法)
   * [EMD经验模式分解](#经验模式分解)
