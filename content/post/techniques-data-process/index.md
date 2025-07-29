@@ -1,5 +1,9 @@
-# 第二章数据分析技术
-
+title:  EOF分析
+date: 2025-07-29
+math:true
+image:
+	placement: 2
+	caption:'Image credit'
 ## 目录
   * [EOF方法](#EOF方法)
   * [EMD经验模式分解](#经验模式分解)
@@ -12,6 +16,10 @@
 ### 笔记系统的意义
 
 ## EMD经验模式分解
+
+### 如果这样写呢
+
+
 
 
 
